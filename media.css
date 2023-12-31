@@ -1,0 +1,356 @@
+@media (min-width: 450px) and (max-width: 570px) {
+  #headline-1 {
+    font-size: 1.5rem;
+  }
+
+  #contactus-btn {
+    display: block;
+  }
+  #start-btn {
+    width: 13rem;
+    height: 3rem;
+    border-radius: 40px;
+    font-size: 0.9rem;
+  }
+  #arrow-btn {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #arrow {
+    height: 1.3rem;
+  }
+
+  #modern-heading {
+    font-size: 1.9rem;
+  }
+  #modern-para {
+    font-size: 0.7rem;
+  }
+  #modern-btn {
+    width: 11.5rem;
+  }
+  #let-btn {
+    width: 9rem;
+    height: 3rem;
+    font-size: 0.9rem;
+  }
+  #modern-arrow-btn {
+    border-radius: 50px;
+    height: 3rem;
+    width: 3rem;
+  }
+}
+@media (min-width: 570px) and (max-width: 670px) {
+  #headline-1 {
+    font-size: 1.7rem;
+  }
+  #contactus-btn,
+  #nav-item-1 {
+    display: block;
+  }
+  #start-btn {
+    width: 13rem;
+    height: 3rem;
+    border-radius: 40px;
+    font-size: 0.9rem;
+  }
+  #arrow-btn {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #arrow {
+    height: 1.3rem;
+  }
+  #modern-heading {
+    font-size: 2.3rem;
+  }
+  #modern-para {
+    font-size: 0.8rem;
+  }
+  #modern-btn {
+    width: 11.5rem;
+  }
+  #let-btn {
+    width: 9rem;
+    height: 3rem;
+    font-size: 0.8rem;
+  }
+  #modern-arrow-btn {
+    border-radius: 50px;
+    height: 3rem;
+    width: 3rem;
+  }
+}
+
+@media (min-width: 670px) and (max-width: 800px) {
+  #headline-1 {
+    font-size: 2rem;
+  }
+  #contactus-btn,
+  #nav-item-1,
+  #nav-item-2 {
+    display: block;
+  }
+  #start-btn {
+    width: 13rem;
+    height: 3rem;
+    border-radius: 40px;
+    font-size: 0.9rem;
+  }
+  #arrow-btn {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #arrow {
+    height: 1.3rem;
+  }
+  #modern-heading {
+    font-size: 2.7rem;
+  }
+  #modern-para {
+    font-size: 1rem;
+  }
+  #modern-btn {
+    width: 11.5rem;
+  }
+  #let-btn {
+    width: 9rem;
+    height: 3rem;
+    font-size: 0.8rem;
+  }
+  #modern-arrow-btn {
+    border-radius: 50px;
+    height: 3rem;
+    width: 3rem;
+  }
+}
+@media (min-width: 800px) and (max-width: 900px) {
+  #headline-1 {
+    font-size: 2rem;
+  }
+  #contactus-btn,
+  #nav-item-1,
+  #nav-item-2,
+  #nav-item-3 {
+    display: block;
+  }
+  #start-btn {
+    width: 12rem;
+    height: 2.7rem;
+    border-radius: 40px;
+    font-size: 0.8rem;
+  }
+  #headline-1 {
+    display: none;
+  }
+  #headline-2 {
+    display: flex;
+    flex-direction: column;
+    font-size: 2.7rem;
+  }
+  #container-1 {
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+  }
+  #container-item-2 {
+    display: block;
+    padding-top: 0.7rem;
+  }
+  #container-item-2 > img {
+    height: 17.5rem;
+  }
+  #container-item-1,
+  #container-item-2 {
+    /* border: 1px solid black; */
+  }
+  #container-item-1 {
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+  }
+
+  #arrow-btn {
+    height: 2.7rem;
+    width: 2.7rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #arrow {
+    height: 1.3rem;
+  }
+  #modern-heading {
+    display: none;
+  }
+  #modern-heading-2 {
+    display: block;
+    display: flex;
+    flex-direction: column;
+    font-size: 2.3rem;
+  }
+  #modernization {
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.2rem;
+  }
+  #modernization > div {
+    /* border: 1px solid red; */
+  }
+  #modern-container-1 {
+    /* border: 1px solid black; */
+    height: 25rem;
+    width: 30rem;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 1.5rem;
+  }
+  #modern-container-2 {
+    display: block;
+  }
+  #modern-container-2 > img {
+    height: 22rem;
+  }
+  #modern-para {
+    font-size: 1.1rem;
+  }
+}
+@media (min-width: 900px) {
+  #headline-1 {
+    font-size: 2rem;
+  }
+  #contactus-btn,
+  #nav-item-1,
+  #nav-item-2,
+  #nav-item-3,
+  #nav-item-4 {
+    display: block;
+  }
+  #menu-logo {
+    display: none;
+  }
+  #start-btn {
+    width: 13rem;
+    height: 3rem;
+    border-radius: 40px;
+    font-size: 0.9rem;
+  }
+  #arrow-btn {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #arrow {
+    height: 1.3rem;
+  }
+  #headline-1 {
+    display: none;
+  }
+  #logo {
+    justify-content: start;
+    padding-left: 1.7rem;
+  }
+
+  #headline-2 {
+    display: flex;
+    flex-direction: column;
+    font-size: 3.3rem;
+  }
+  #container-1 {
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  #container-item-2 {
+    display: block;
+    padding-top: 0.7rem;
+  }
+  #container-item-2 > img {
+    height: 20rem;
+  }
+  #container-item-1,
+  #container-item-2 {
+    /* border: 1px solid black; */
+  }
+  #container-item-1 {
+    margin-left: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+  }
+  #modern-heading {
+    display: none;
+  }
+  #modern-heading-2 {
+    display: block;
+    display: flex;
+    flex-direction: column;
+    font-size: 2.8rem;
+  }
+  #modernization {
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 0.2rem;
+  }
+  #modernization > div {
+    /* border: 1px solid red; */
+  }
+  #modern-container-1 {
+    /* border: 1px solid black; */
+    /* height: 25rem;
+    width: 30rem; */
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 0rem;
+  }
+  #modern-container-2 {
+    display: block;
+  }
+  #modern-container-2 > img {
+    height: 22rem;
+  }
+  #let-btn {
+    width: 11rem;
+    font-size: 1rem;
+    height: 3rem;
+  }
+  #modern-btn {
+    width: auto;
+  }
+  #cross-arrow {
+    height: 1.3rem;
+  }
+  #modern-arrow-btn {
+    height: 3rem;
+    width: 3rem;
+  }
+  #modern-para {
+    font-size: 0.7rem;
+  }
+}
